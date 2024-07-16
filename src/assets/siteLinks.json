@@ -1,7 +1,7 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
+    "name": "博 客",
     "link": "https://blog.buxiantang.top/"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "icon": "FolderOpenRegular",
-    "name": "图床",
+    "name": "图 床",
     "link": "https://imghosting.buxiantang.top//"
   },
   {
@@ -21,12 +21,12 @@
   },
   {
     "icon": "PenFancy",
-    "name": "绘图",
+    "name": "绘 图",
     "link": "https://img.buxiantang.top/"
   },
   {
     "icon": "Search",
-    "name": "必应",
+    "name": "必 应",
     "link": "https://www.bing.com/?FORM=Z9FD1/"
   },
   {
