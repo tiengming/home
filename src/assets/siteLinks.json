@@ -2,36 +2,31 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://blog.buxaintang.top/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "icon": "Alert16Regular",
+    "name": "修行答疑",
+    "link": "https://buxaintang.top/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "PictureOutlined",
+    "name": "图床",
+    "link": "https://imghosting.buxiantang.top//"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "GithubFilled",
+    "name": "Github",
+    "link": "https://github.com/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
+    "icon": "PictureFilled",
+    "name": "绘图",
     "link": "https://web.imsyy.top/"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "BrandBing",
+    "name": "必应",
+    "link": "https://www.bing.com/?FORM=Z9FD1"
   }
 ]

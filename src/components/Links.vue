@@ -70,6 +70,11 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
+  Alert16Regular,
+  PictureOutlined,
+  GithubFilled,
+  PictureFilled,
+  BrandBing,
 };
 
 // 链接跳转
