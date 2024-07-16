@@ -2,12 +2,12 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.buxaintang.top/"
+    "link": "https://blog.buxiantang.top/"
   },
   {
     "icon": "CommentsRegular",
     "name": "修行答疑",
-    "link": "https://buxaintang.top/"
+    "link": "https://buxiantang.top/"
   },
   {
     "icon": "FolderOpenRegular",
@@ -22,7 +22,7 @@
   {
     "icon": "PenFancy",
     "name": "绘图",
-    "link": "https://web.imsyy.top/"
+    "link": "https://img.buxiantang.top/"
   },
   {
     "icon": "Search",
@@ -32,6 +32,6 @@
   {
     "icon": "Cloudflare",
     "name": "cloudflare",
-    "link": "https://cloudflare.com/"
+    "link": "https://dash.cloudflare.com/"
   }
 ]
