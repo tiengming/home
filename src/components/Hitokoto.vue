@@ -40,7 +40,7 @@ const openMusicShow = ref(false);
 
 // 一言数据
 const hitokotoData = reactive({
-  text: "这里应该显示一句话",
+  text: "这里是应该显示一句话",
   from: "卜仙堂",
 });
 
