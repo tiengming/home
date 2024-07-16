@@ -27,6 +27,11 @@
   {
     "icon": "BrandBing",
     "name": "必应",
-    "link": "https://www.bing.com/?FORM=Z9FD1"
+    "link": "https://www.bing.com/?FORM=Z9FD1/"
+  },
+  {
+    "icon": "Cloudflare",
+    "name": "cloudflare",
+    "link": "https://cloudflare.com/"
   }
 ]

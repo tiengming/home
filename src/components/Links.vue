@@ -75,6 +75,7 @@ const siteIcon = {
   GithubFilled,
   PictureFilled,
   BrandBing,
+  Cloudflare,
 };
 
 // 链接跳转
