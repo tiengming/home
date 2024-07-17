@@ -5,19 +5,29 @@
     "link": "https://blog.buxiantang.top/"
   },
   {
-    "icon": "CommentsRegular",
+    "icon": "Safari",
     "name": "修行答疑",
     "link": "https://buxiantang.top/"
   },
   {
+    "icon": "YinYang",
+    "name": "仙梦指玄",
+    "link": "https://chatglm.cn/share/FWuUR"
+  },
+  {
     "icon": "FolderOpenRegular",
     "name": "图 床",
-    "link": "https://imghosting.buxiantang.top//"
+    "link": "https://imghosting.buxiantang.top/"
   },
   {
     "icon": "Github",
     "name": "Github",
     "link": "https://github.com/"
+  },
+  {
+    "icon": "CommentsRegular",
+    "name": "Copilot",
+    "link": "https://copilot.microsoft.com/"
   },
   {
     "icon": "PenFancy",
@@ -33,5 +43,20 @@
     "icon": "Cloudflare",
     "name": "cloudflare",
     "link": "https://dash.cloudflare.com/"
+  },
+  {
+    "icon": "FeatherAlt",
+    "name": "传统色",
+    "link": "https://www.zhongguose.com/#zizi"
+  },
+  {
+    "icon": "MailBulk",
+    "name": "Outlook",
+    "link": "https://outlook.com"
+  },
+  {
+    "icon": "Envelope",
+    "name": "QQ邮箱",
+    "link": "https://mail.qq.com/"
   }
 ]
