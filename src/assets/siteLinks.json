@@ -25,24 +25,29 @@
     "link": "https://github.com/"
   },
   {
-    "icon": "CommentsRegular",
-    "name": "Copilot",
-    "link": "https://copilot.microsoft.com/"
-  },
-  {
     "icon": "Markdown",
     "name": "Markdown",
     "link": "https://markdown.buxiantang.top/"
   },
   {
     "icon": "PenFancy",
-    "name": "绘 图",
+    "name": "AI绘 图",
     "link": "https://img.buxiantang.top/"
   },
   {
     "icon": "Search",
     "name": "必 应",
     "link": "https://www.bing.com/?FORM=Z9FD1/"
+  },
+  {
+    "icon": "FreeCodeCamp",
+    "name": "Code",
+    "link": "https://code.buxiantang.top/"
+  },
+  {
+    "icon": "CommentsRegular",
+    "name": "Copilot",
+    "link": "https://copilot.microsoft.com/"
   },
   {
     "icon": "CloudSun",
