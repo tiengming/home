@@ -39,8 +39,12 @@ const bgRandom = Math.floor(Math.random() * 10 + 1);
 const fetchBingWallpaper = async () => {
   try {
     const response = await fetch("https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US");
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
     const data = await response.json();
     const url = `https://www.bing.com${data.images[0].url}`;
+    console.log("Bing wallpaper URL:", url);
     return url;
   } catch (error) {
     console.error("Failed to fetch Bing wallpaper:", error);
@@ -60,27 +64,17 @@ const changeBg = async (type) => {
     } else if (type == 3) {
       url = "https://api.vvhan.com/api/wallpaper/acg";
     }
-    bgUrl.value = url;
+    if (url) {
+      bgUrl.value = url;
+    } else {
+      console.error("Failed to fetch background image, using default.");
+      bgUrl.value = `/images/background${bgRandom}.jpg`;
+    }
   } catch (error) {
     console.error("Failed to fetch background image:", error);
     imgLoadError();
   }
 };
-
-
-
-// 更换壁纸链接
-//const changeBg = (type) => {
-//  if (type == 0) {
- //   bgUrl.value = `/images/background${bgRandom}.jpg`;
- // } else if (type == 1) {
- //   bgUrl.value = "https://api.dujin.org/bing/1920.php";
- // } else if (type == 2) {
- //   bgUrl.value = "https://api.vvhan.com/api/wallpaper/views";
- // } else if (type == 3) {
- //   bgUrl.value = "https://api.vvhan.com/api/wallpaper/acg";
- // }
-//};
 
 // 图片加载完成
 const imgLoadComplete = () => {
