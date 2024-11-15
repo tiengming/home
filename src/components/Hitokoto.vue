@@ -58,7 +58,7 @@ const getHitokotoData = async () => {
         fill: "#efefef",
       }),
     });
-    hitokotoData.text = "这里应该显示一句话";
+    hitokotoData.text = "仙道漫长，岁月易逝";
     hitokotoData.from = "卜仙堂";
   }
 };
